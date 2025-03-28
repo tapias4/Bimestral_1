@@ -42,3 +42,6 @@ El juego utiliza las siguientes imágenes:
 * `img/PLANETA.png`: Imagen de los planetas.
 
 Asegúrate de que estas imágenes estén presentes en la carpeta `img` para que el juego funcione correctamente.
+
+
+![Diagrama de flujo](Diagrama.png "Diagrama de flujo")
